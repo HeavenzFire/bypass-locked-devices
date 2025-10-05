@@ -1,0 +1,5 @@
+{
+  "name": "Device Recovery Simulator",
+  "description": "A sophisticated simulator that visualizes the process of bypassing device security and performing a factory restore, featuring a dynamically generated process log from Gemini.",
+  "requestFramePermissions": []
+}
